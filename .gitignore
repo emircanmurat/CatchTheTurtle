@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# yt-dlp cache
+*.part
+*.ytdl
+*.temp
